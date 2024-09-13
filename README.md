@@ -9,6 +9,6 @@ Family Quest is an interactive chore and rewards management application designed
 - GOMS Model
 - Evaluation
 
-## Reference:
+# References
 
 HCI.docx
